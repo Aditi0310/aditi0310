@@ -1,5 +1,4 @@
-# Hi there 👋, I’m Aditi   
-**A code-and-creativity explorer | Software Developer 
+# Hi there, I’m Aditi   
 
 ![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -8,17 +7,13 @@ From **Ranchi 🇮🇳**, now exploring the bustling streets of **Mumbai**, I sp
 ---
 
 ## 🌟 About Me
- 
-🎓 Computer Science graduate, KIIT University, Bhubaneswar
+
+🎓 Computer Science graduate, KIIT University, Bhubaneswar  
 💼 Building tools and solutions at Upstox that power trading workflows efficiently  
 🎨 Fusing logic and design to craft maintainable, high-performance applications  
 🌱 Lifelong learner — always coding, always creating
 
-![Creative GIF](https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif)  
-
-
-![Tech GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-
+---
 
 ## 🎯 Fun Facts
 
