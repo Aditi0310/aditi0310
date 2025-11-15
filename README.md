@@ -1,5 +1,5 @@
 # Hi there 👋, I’m Aditi   
-**A code-and-creativity explorer | Software Developer | Modern-Day Renaissance Soul**  
+**A code-and-creativity explorer | Software Developer 
 
 ![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -8,8 +8,7 @@ From **Ranchi 🇮🇳**, now exploring the bustling streets of **Mumbai**, I sp
 ---
 
 ## 🌟 About Me
-
-👩‍💻 Navigating the world of software from the city of dreams, Mumbai 🌆  
+ 
 🎓 Computer Science graduate, KIIT University, Bhubaneswar
 💼 Building tools and solutions at Upstox that power trading workflows efficiently  
 🎨 Fusing logic and design to craft maintainable, high-performance applications  
