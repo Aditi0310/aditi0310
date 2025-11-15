@@ -60,7 +60,7 @@ Here’s what I love showcasing on GitHub:
 
 ## 📈 Stats & Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi0310&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi0310&show_icons=true&theme=tokyonight)
 
 ### 🛠 Languages & Tools
 
