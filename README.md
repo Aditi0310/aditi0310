@@ -61,7 +61,7 @@ Here’s what I love showcasing on GitHub:
 ## 📈 Stats & Achievements
 
 ![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide=html) 
 
 - Thousands of lines of code, each crafted carefully  
 - Built multiple internal tools at **Upstox** to improve workflow and efficiency  
